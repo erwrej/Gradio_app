@@ -4,12 +4,12 @@ plugins {
 }
 
 android {
-    namespace = "com.example.gradioapp"
+    namespace = "com.example.linkopener"
 
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.gradioapp"
+        applicationId = "com.example.linkopener"
         minSdk = 21
         targetSdk = 34
         versionCode = 1

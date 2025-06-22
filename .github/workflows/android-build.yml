@@ -23,7 +23,7 @@ jobs:
     - name: Set up Gradle
       uses: gradle/gradle-build-action@v2
       with:
-        gradle-version: '8.0.2'  # или нужная тебе версия
+        gradle-version: '8.0.2'
 
     - name: Download Android SDK
       uses: android-actions/setup-android@v2
